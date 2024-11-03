@@ -7,21 +7,21 @@
     {
       "name": "Truyện QQ",
       "author": "Nguyễn+",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenqq/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/truyenqq/plugin.zip",
       "version": 19,
       "type": "comic",
       "locale": "vi_VN",
       "source": "https://truyenqqto.com",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenqq/icon.png",
+      "icon": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/truyenqq/icon.png",
       "description": "Đọc truyện trên trang Truyện QQ"
     },
 	{
-      "name": "Cứu Truyện",
+      "name": "Net Truyện",
       "author": "Nguyễn+",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/nettruyen/plugin.zip",
       "version": 4,
       "source": "https://nettrom.com",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/icon.png",
+      "icon": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/nettruyen/icon.png",
       "description": "Đọc truyện trên trang Cứu Truyện",
       "type": "comic",
       "locale": "vi_VN"
@@ -29,10 +29,10 @@
     {
       "name": "Cứu Truyện",
       "author": "Nguyễn+",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/cuutruyen/plugin.zip",
       "version": 4,
       "source": "https://nettrom.com",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/icon.png",
+      "icon": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/cuutruyen/icon.png",
       "description": "Đọc truyện trên trang Cứu Truyện",
       "type": "comic",
       "locale": "vi_VN"
