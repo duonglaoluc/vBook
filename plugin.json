@@ -11,7 +11,7 @@
       "version": 32,
       "source": "https://nettruyenviet.com",
       "icon": "https://raw.githubusercontent.com/duonglaoluc/vBook/main/nettruyen/icon.png",
-      "description": "Đọc truyện trên trang Cứu Truyện",
+      "description": "Đọc truyện trên trang nettruyenviet.com",
       "type": "comic",
       "locale": "vi_VN"
     }
