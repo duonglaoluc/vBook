@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "author": "Nguyễn+",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Truyện QQ",
+      "author": "Nguyễn+",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenqq/plugin.zip",
+      "version": 19,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://truyenqqto.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenqq/icon.png",
+      "description": "Đọc truyện trên trang Truyện QQ"
+    },
+	{
+      "name": "Cứu Truyện",
+      "author": "Nguyễn+",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/plugin.zip",
+      "version": 4,
+      "source": "https://nettrom.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/icon.png",
+      "description": "Đọc truyện trên trang Cứu Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+	},
+    {
+      "name": "Cứu Truyện",
+      "author": "Nguyễn+",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/plugin.zip",
+      "version": 4,
+      "source": "https://nettrom.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/icon.png",
+      "description": "Đọc truyện trên trang Cứu Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+    }
+  ]
+}
